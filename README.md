@@ -1,3 +1,3 @@
 gittest_serkan
 ==============
-copyried by Serkan Altin
+copyright by Serkan Altin
